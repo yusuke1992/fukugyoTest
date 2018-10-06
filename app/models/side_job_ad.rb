@@ -1,0 +1,2 @@
+class SideJobAd < ApplicationRecord
+end
