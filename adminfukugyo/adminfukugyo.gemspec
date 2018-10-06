@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = Adminfukugyo::VERSION
   s.authors     = ["原田悠佑"]
   s.email       = ["adsoofmelk1327@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Adminfukugyo."
-  s.description = "TODO: Description of Adminfukugyo."
+  s.homepage    = ""
+  s.summary     = ""
+  s.description = ""
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
